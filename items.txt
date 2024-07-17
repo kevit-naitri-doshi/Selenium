@@ -1,0 +1,590 @@
+Item: Algemeen
+
+Question: ⊕
+Kan ik ook achteraf betalen?
+
+Answer: Wij bieden via Multisafepay de mogelijkheid om achteraf te betalen. Vanaf het moment dat je bestelling afgeleverd is heb je dan twee weken om de betaling te voldoen. Multisafepay toetst vooraf of je in aanmerking komt voor krediet. Acceptatie is mede afhankelijk van het order bedrag. Bij de eerste bestelling is de limiet € 270,00, daarna € 300,00.
+
+Question: ⊕
+Kan ik mijn bestelling ook afhalen?
+
+Answer: Helaas niet. Onze producten worden door verschillende leveranciers op maat gemaakt of uit voorraad verzonden. Dat gaat al heel snel en om het niet te vertragen laten we de zendingen niet langs ons hoofdkantoor gaan. Via track&trace kun je op de hoogte blijven van de levering.
+Heb je de bestelling sneller nodig dan de aangegeven levertijd? Neem dan contact op met de klantenservice via chat, e-mail of telefoon. Soms is het mogelijk om sneller te leveren dan de gemiddelde aangegeven tijd.
+
+Question: ⊕
+Wat is de gemiddelde levertijd?
+
+Answer: Onze levertijden verschillen per productgroep. Maatwerk duurt langer dan standaard maten. Per product kun je de geschatte levertijd bekijken op onze productpagina's. Standaard producten uit de categorie 'kant-en-klaar' worden binnen enkele werkdagen geleverd. Kijk voor meer informatie op de verzendinformatie pagina.
+
+Question: ⊕
+Hoe hoog zijn de verzendkosten?
+
+Answer: Boven de € 100,- wordt je bestelling gratis verzonden. Onze verzendkosten bedragen onder dit bedrag € 4,95 euro per bestelling. Bij bestelling van meerdere gordijnen blijft dit dus € 4,95. Voor hele grote maten gelden hogere tarieven. Deze staan op de pagina 'verzendkosten en levertijd' en worden automatisch in het winkelmandje getoond.
+
+Question: ⊕
+Kunnen jullie mij helpen met meten en installeren?
+
+Answer: Zeker. Voor elk type raamdecoratie geldt een net even andere meetinstructie. Op deze website geven we zo duidelijk mogelijk aan hoe je het zelf kunt opmeten. Lukt dat niet, of heb je liever dat iemand het ook komt installeren, dan kun je gebruik maken van onze meet & montage service. Het opmeten is gratis en vrijblijvend. De montage-service is zeer betaalbaar, klik hier voor de tarieven.
+
+Question: ⊕
+Hoe kan ik een klacht indienen?
+
+Answer: Indien u een klacht heeft dan kunt u ons bellen op het telefoonnummer dat op de homepage staat. U kunt ons ook emailen op Wij proberen binnen kantoortijden binnen 24 uur op uw klacht te reageren. Bekijk hier onze volledige klachtenprocedure.
+
+Question: ⊕
+In welke landen leveren jullie?
+
+Answer: Nederland
+In Nederland bezorgen we in alle provincies. Beschikbaar in heel Nederland behalve de Waddeneilanden.
+België
+In België bedienen we geheel Vlaanderen met onze Vlaamse adviseur/monteur.
+Boek snel een gratis meet en advies afspraak.
+ 
+
+Question: ⊕
+Zijn de prijzen op de website inclusief btw en verzendkosten?
+
+Item: Duo Rolgordijnen
+
+Question: ⊕
+Kan ik een duo rolgordijn makkelijk zelf inkorten?
+
+Answer: We raden het niet aan om het duo rolgordijn zelf te gaan inkorten, dit heeft te maken met de stof die snel kan gaan rafelen. Wil je liever een duo rolgordijn bestellen wat exact je maat heeft, bestel dan een duo rolgordijn op maat.
+
+Question: ⊕
+Hoe moet ik de aangegeven afmeting van een standaard maat duo rolgordijn lezen?
+
+Item: Elektrische gordijnrails
+
+Question: ⊕
+Kan het systeem ook met een telefoon of tablet op afstand worden bestuurd?
+
+Answer: Ja, dat is mogelijk. Hiervoor heb je veel verschillende systemen. Één daarvan is de Gateway van Benext. Hiermee kan draadloos een systeem met behulp van een Z-wave ontvanger worden aangestuurd. De Gateway bij Benext kost slechts 135 euro en is via de website van Benext te bestellen. Daarbij is het ook mogelijk om verlichting, camera’s, slimme thermostaten, etc. aan te sluiten. Met de systemen van bijvoorbeeld HomeWizard en Homey kan de Forest motor ook draadloos 'praten'.
+
+Question: ⊕
+Kan het systeem op domotica worden aangesloten?
+
+Answer: Het is mogelijk om het systeem op Domotica/huisbesturing aan te sluiten. De installateur dient hiervoor een constante voeding (230V) en 3 spanningsvrije stuurdraden (open-common-close) aan te leggen.
+
+Question: ⊕
+Is het systeem makkelijk te installeren?
+
+Answer: Ja, het is een plug ‘n’ play systeem. Dus stekker in het stopcontact en het systeem werkt. Na een stroomonderbreking zal het systeem altijd naar zijn gesloten situatie lopen, zodat hij de positie weet op de rail. Verder heeft het systeem een slow start en slow stop (het gordijn loopt dus subtiel open en dicht).
+
+Question: ⊕
+Tot welke lengte kan een systeem worden gemaakt?
+
+Answer: Uit één stuk is tot 5,5 meter lengte mogelijk.
+
+Question: ⊕
+Hoeveel railsen kan ik op één afstandsbediening bedienen?
+
+Answer: De afstandsbediening heeft zes verschillende kanalen. En op één kanaal kunnen wel 20 systemen worden geprogrammeerd. De draadloze timer heeft 15 aparte kanalen.
+
+Question: ⊕
+Zit de afstandsbediening er bij?
+
+Answer: Ja, de afstandsbediening is standaard meegeleverd, hier betaal je niets extra's voor.
+
+Question: ⊕
+Hoe kan ik de gordijnen laten sluiten door middel van een gateway?
+
+Answer: Naast bediening met telefoon/tablet is het met een gateway ook mogelijk om de gordijnen op basis van zonsopgang en –ondergang open en dicht te laten gaan. Ideaal voor in woonkamers.
+
+Question: ⊕
+Kan de pakketbreedte worden aangepast?
+
+Answer: Ja, op de motor zit een programmeerknop waarbij de open positie ingesteld kan worden, dat geldt ook voor de snelheid van openen en sluiten van het gordijn.
+
+Question: ⊕
+Wat is de lengte van het meegeleverde stroomsnoer?
+
+Answer: Standaard is het stroomsnoer 4 meter.
+
+Question: ⊕
+Wat houdt het touch impulse control in?
+
+Answer: Door middel van een simpel rukje aan het gordijn gaat deze open of dicht. Het systeem treedt dus in werking als er aan getrokken worden. Hierdoor is het ook niet mogelijk om het kapot te trekken. Voor de levensduur van de gordijnen is het uiteraard beter om de bediening te gebruiken, in plaats van bediening met de hand.
+
+Question: ⊕
+Kan het systeem bij stroomuitval worden bediend?
+
+Item: Gordijnrails
+
+Question: ⊕
+Wordt de rail compleet geleverd met runners en montage materiaal?
+
+Answer: Ja, we leveren de gordijnrails inclusief runners, glijders en stoppers voor montage aan het plafond. Je hebt alleen nog het gordijn nodig om deze aan de rail te hangen.
+
+Question: ⊕
+Wat is de maximale maat gordijnrails die ik bij jullie kan bestellen?
+
+Answer: Wij leveren gordijnrails tot maarliefst 10 meter. De minimale afmeting is 30 centimeter. Tot 5,5 meter wordt het uit één stuk gemaakt, daarboven uit twee.
+
+Question: ⊕
+Is een uitschuifbare rails niet handiger?
+
+Answer: Voor het transport wellicht, maar uitschuifbare rails lopen nooit zo vloeiend als deze op maat gemaakte rails. Het deel waar de componenten over elkaar schuiven blijft altijd een punt waar de runners kunnen blijven steken.
+
+Question: ⊕
+Ik heb een zwaar gordijn is het beter als ik voor de ds xl ga?
+
+Answer: Nee, ook de KS en de DS zijn geschikt voor zwaardere gordijnen. Alle rails kunnen een maximaal draaggewicht van ca. 8 kg aan.
+
+Question: ⊕
+Kan ik ook een motor krijgen voor deze gordijnrails?
+
+Answer: Fan van domotica? Wij hebben ook een elektrische gordijnrails. Je kunt deze zowel met een app als via een afstandsbediening bedienen. Perfect voor het huis van de toekomst..
+
+Question: ⊕
+Welke kleuren rails leveren jullie?
+
+Answer: Onze rails zijn verkrijgbaar in wit, zwart en zilver.
+
+Question: ⊕
+Beschadigt of buigt zon grote gordijnrails niet tijdens het transport?
+
+Answer: Wij werken met een logistieke partij die gespecialiseerd is in het vervoeren van raamdecoratie en gordijnrails. Zij zijn zeer goed in staat om dit soort delicate zendingen veilig bij de klant te krijgen.
+
+Question: ⊕
+Waarom zou ik een trekstang meebestellen?
+
+Answer: Met een trekstang kun je het gordijn eenvoudig openen en sluiten. Het grote voordeel is dat je niet aan de stof hoeft te trekken, waardoor deze niet vies wordt en ook niet beschadigd raakt of vouwt.
+
+Item: Rolgordijnen
+
+Question: ⊕
+Kun je een rolgordijn makkelijk zelf schoonmaken?
+
+Answer: Rolgordijnen kunnen schoongemaakt worden met een licht vochtige doek van lauw schoonmaak water. Niet te hard wrijven want dan beschadigt de beschermlaag.
+
+Question: ⊕
+Is een rolgordijn eenvoudig zelf te installeren?
+
+Answer: De installatie van een rolgordijn is erg eenvoudig. Bij elk rolgordijn wordt er een setje met een bevestigingsmechaniek meegeleverd waarmee je het rolgordijn simpel kan installeren. Een rolgordijn kan wel zowel op de muur als aan het plafond bevestigd worden.
+
+Question: ⊕
+Wat als mijn raam minder hoog is dan het rolgordijn?
+
+Answer: Bij een rolgordijn zit de stof opgerold op de buis. Mocht je raam minder hoog zijn dan de hoogte van het rolgordijn, dan laat je eenvoudig wat stof op de rol zitten, deze wordt niet afgerold.Dit laatste geldt alleen bij een standaard maat. Bij een op maat gemaakt product kan je de hoogte uiteraard bestellen wat je nodig bent.
+
+Question: ⊕
+Aan welke kant zit de ophaalmechaniek van een rolgordijn?
+
+Answer: Dit kan je zelf bepalen. Het mechaniek wat bij het standaard maten rolgordijn meegeleverd wordt kan zowel aan de linker- als rechterkant bevestigd worden. Bestel je een rolgordijn op maat, dan moet je tijdens het bestellen aangeven aan welke kant je het mechaniek graag geplaatst wilt hebben.
+
+Question: ⊕
+Is de aangegeven afmeting de breedte van de stof?
+
+Answer: Bij een rolgordijn in standaard maten is de aangegeven afmeting niet de breedte van de stof. Bijvoorbeeld bij een rolgordijn van 110 cm breed is de complete breedte 110 cm, inclusief ophangmechaniek.
+
+Question: ⊕
+Kan ik een rolgordijn gemakkelijk zelf inkorten?
+
+Answer: Ja, een rolgordijn is makkelijk in te korten door middel van een schaar of een scherp mes. De buis waar de stof op geplakt zit, is van aluminium of staal, deze kan door middel van een ijzerzaagje ingekort worden. Wil je liever niet inkorten? Bestel dan een rolgordijn op maat.
+
+Question: ⊕
+Welke voordelen heeft een rolgordijn?
+
+Answer: Een rolgordijn is een relatief goedkope manier om je raam mee af te dekken. Het is simpel te installeren en in te korten.
+
+Question: ⊕
+Is het mogelijk om de gordijnen automatisch op tijd open en dicht te laten gaan?
+
+Answer: Dat kan nu met de slimme MotionBlinds buismotoren. Deze zijn geschikt voor bijna alle rolgordijnen met een buis-diameter van 25 tot 30 millimeter. Of het nu kant en klare of maatwerk rolgordijnen zijn!
+
+Question: ⊕
+Welke verschillende soorten rolgordijnen zijn er?
+
+Answer: We hebben vele soorten rolgordijnen; met of zonder cassette, met of zonder zijprofielen voor volledige verduistering of rolgordijnen met ketting. Kijk snel op onze soorten pagina voor een volledig overzicht van alle rolgordijnen
+
+Question: ⊕
+Wat voor type kettingen zijn er beschikbaar?
+
+Answer: Bij de standaard maten rolgordijnen hebben we een kunststof ketting, bij de rolgordijnen op maat gebruiken we een luxere metalen ketting
+
+Question: ⊕
+Hebben jullie extra brede rolgordijnen?
+
+Answer: De rolgordijnen op maat gaan tot en met 2,4 meter breed. Heb je nog bredere ramen? Kijk dan bij de rolgordijnen XL, die gaan tot maar liefst 4,2 meter breed.
+
+Question: ⊕
+Wat is het verschil tussen lichtdoorlatend en verduisterend?
+
+Item: Gordijnen
+
+Question: ⊕
+Wat is een vlinderplooi?
+
+Answer: Een vlinderplooi is hetzelfde als een dubbele plooi, zie hiervoor het artikel van de dubbele plooi. Hieronder zie je een foto van deze vlinderplooi.
+
+Question: ⊕
+Wat is een dubbele plooi?
+
+Answer: Als je weet welk type gordijn en welke stof je wilt, kom je ook voor de “plooi keuze” te staan. Je kunt denken aan een “enkele plooi” of een dubbele plooi. Een dubbele plooi kan in principe op elke gordijnstof toepast worden en is een populaire keuze. Een andere naam voor de dubbele plooi is “vlinderplooi”.
+Een gordijn met een dubbele plooi is dubbel zo mooi!
+Bij een dubbele plooi is meer stof nodig dan bij een enkele plooi, daardoor is er een klein prijsverschil. In ons bestelproces kun je het type plooi eenvoudig aangeven en de eventuele extra kosten worden direct getoond, zo kom je nooit voor verrassingen te staan.
+Een dubbele plooi kan zoals gezegd in principe op iedere gordijnstof toegepast worden, maar is het mooist bij gordijnen vanaf 2 meter in lengte. 
+Over het algemeen kan onderstaande schema aangehouden worden.
+Gordijntype Dubbele plooi geschiktheid
+Vitrages *****
+Inbetweens *****
+Gevoerde gordijnstoffen ***
+ Een dubbel plooi gordijn valt vaak “rijker” en geeft een iets luxere uitstraling aan een kamer.
+Hieronder vind je nog wat een voorbeeld van een gordijnen met dubbele plooi, die we bij een klant hebben mogen ophangen.
+Een gordijn met dubbele plooi bij een klant van Gordijnen.nl
+Dus wacht niet langer, bestel snel je gordijn op maat met een dubbele plooi! In ons bestelproces kun je eenvoudig aangeven, welk type plooi je wilt bestellen. 
+
+Question: ⊕
+Heb ik een voering nodig voor verduisterende gordijnen?
+
+Item: Jaloezieën
+
+Question: ⊕
+Hoe moet ik de aangegeven afmeting lezen?
+
+Answer: Bij een jaloezie is de aangegeven afmeting de exacte afmeting van het compleet uitgehangen systeem. Bijvoorbeeld bij een standaard maat van 120x130 cm is de maximale breedte 120 cm en de aluminium jaloezie als deze volledig is uitgehangen 130 cm.
+
+Question: ⊕
+Welke voordelen heeft een jaloezie?
+
+Item: Dakraam rolgordijnen
+
+Question: ⊕
+Voor welke merken dakramen leveren jullie rolgordijnen?
+
+Answer: Wij leveren dakraam rolgordijnen geschikt voor de dakraam merken VELUX ®, Fakro, ROTO, Rooflite, Okpol en Dakstra. Mocht je maat of merk dakraam er niet bij staan is het ook mogelijk een dakraam rolgordijn op maat te bestellen.
+
+Question: ⊕
+Kan ik het dakraam rolgordijn eenvoudig zelf installeren?
+
+Answer: Het is juist heel eenvoudig. Je kan het helemaal zelf installeren. We besteden veel aandacht aan innovatie. Een van deze innovaties is onze eenvoudige installatie. Je plakt het gordijn eerst op zijn plek, vervolgens heb je beide handen vrij om het veilig vast te zetten met twee schroeven. De zijgeleiders schuif je boven in de cassette en daarna zet je deze onder vast met nog eens twee schroeven. Bekijk ook onze installatievideo voor meer informatie.
+
+Question: ⊕
+Mijn dakraam hangt heel hoog, is er een oplossing?
+
+Answer: Het is juist heel eenvoudig. Je kan het helemaal zelf installeren. We besteden veel aandacht aan innovatie. Een van deze innovaties is onze eenvoudige installatie. Je plakt het gordijn eerst op zijn plek, vervolgens heb je beide handen vrij om het veilig vast te zetten met twee schroeven. De zijgeleiders schuif je boven in de cassette en daarna zet je deze onder vast met nog eens twee schroeven. Bekijk ook onze installatievideo voor meer informatie.
+
+Question: ⊕
+Kan mijn dakraam nog wel open met het rolgordijn?
+
+Answer: Geen enkel punt. Aangezien het dakraamgordijn op het draaiende gedeelte van het kozijn wordt geïnstalleerd en de cassette op het glas van het dakraam rust, kan het dakraam gewoon open en dicht worden gedaan.
+
+Question: ⊕
+Kan het rolgordijn ook half open?
+
+Answer: Het rolgordijn kan op iedere gewenste hoogte worden vastgezet.
+
+Question: ⊕
+Wat is het verschil tussen Bloc en originele VELUX ® Rolgordijnen?
+
+Answer: Wij verkopen niet de rolgordijnen van de originele dakraam merken, maar hebben ons eigen rolgordijnsysteem ontwikkeld. De Bloc dakraamgordijnen worden exact op maat gemaakt voor uw VELUX ® dakraam. Het systeem is getest door de keuringsdienst BBA in Groot Brittannië en voldoet aan de Europese richtlijnen met betrekking tot kindveiligheid. Het Bloc dakraamgordijn systeem is volledig koordloos en mede daardoor zeer eenvoudig te installeren. Het Bloc systeem wordt in Noord Ierland gemaakt en ook bijna alle onderdelen komen van leveranciers in Europa. Het Bloc dakraamgordijn is van zeer goede kwaliteit en doet niet onder voor de originele alternatieven. Het heeft een uitstekende prijs/kwaliteit verhouding.
+
+Question: ⊕
+Kloppen de kleuren van de stoffen op de website wel met de realiteit?
+
+Answer: Wij proberen om een zo goed mogelijk beeld te geven van de stoffen. De instellingen van je scherm en de lichtval op de stof bij je in huis kunnen invloed hebben op de weergave. Uit ervaring weten wij dat de meeste stoffen goed voldoen aan de verwachting van onze klanten. Wil je een bijzondere kleur stof, dan raden we u aan eerst een of meerdere stofstalen te bestellen zodat je rustig kan kijken of de kleur bij je interieur past.
+
+Question: ⊕
+Hoe lang duurt het voordat ik mijn dakraam rolgordijn ontvang?
+
+Answer: Dat hangt er van af hoe populair je type dakraam is en welke stof je kiest. Voor enkele populaire VELUX ® dakramen hebben wij Bloc rolgordijnen op voorraad in de meest populaire stoffen. Deze worden vaak dezelfde dag nog verzonden. Als er geen voorraad is wordt je dakraamgordijn op maat gemaakt. Reken enkele dagen voor het produceren en enkele dagen voor de bezorging. In de regel zorgen wij er voor dat je bestelling binnen 9 werkdagen geleverd is.
+
+Item: Vouwgordijnen
+
+Question: ⊕
+Wat is een vouwgordijn?
+
+Answer: Het grote kenmerk van een vouwgordijn is dat de stof gevouwen naar omhoog of beneden gaat met behulp van een koord. Vouwgordijnen hebben horizontale vouwen in de stof zitten die vaak door middel van een balein gevormd worden.
+Een balein is een horizontaal staafje dat aan de voor of achterkant van het vouwgordijn kan zitten. Waar je voor kiest is vooral een kwestie van smaak. 
+De bediening van een vouwgordijn lijkt erg op die van een rolgordijn. Maar in plaats van dat de stof boven om een rol heen rolt vouwt deze dubbel doordat de koorden de baleinen tegen elkaar aantrekken. Vouwgordijnen hebben daarmee een warmere uitstraling dan rolgordijnen.
+Het is ook mogelijk een vouwgordijn te voeren. Hierdoor kan het verduisterend gemaakt worden, krijgt het nog een luxere uitstraling en isoleert het beter.
+
+Question: ⊕
+Welke voordelen heeft een vouwgordijn?
+
+Answer: Vouwgordijnen hebben een landelijke uitstraling en kunnen daarnaast in dezelfde stof geleverd worden als de gordijnen.
+
+Question: ⊕
+Hoe meet ik mijn ramen op voor het vouwgordijn?
+
+Answer: Breedte: Meet op 3 verschillende plekken (links, midden en rechts) de breedtemaat en neem hiervan de kleinste maat. Hoogte: Meet op 3 verschillende plekken (hoog, midden en laag) de hoogtemaat en neem hiervan de kleinste maat. Hou bij plaatsing in de dag (in het kozijn) een speling aan van 1 cm.
+
+Question: ⊕
+Welke type kettingen zijn er mogelijk bij een vouwgordijn?
+
+Answer: Er zijn 2 type kettingen mogelijk: - wit kunststof - metalen ketting.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek bij een vouwgordijn?
+
+Answer: De bedieningszijde van een vouwgordijn is zelf te bepalen, dit kan zowel links als rechts.
+
+Question: ⊕
+Is een vouwgordijn eenvoudig zelf te installeren?
+
+Answer: Dit is heel eenvoudig, de montagesteunen worden standaard meegeleverd en zijn gemakkelijk te installeren.
+
+Question: ⊕
+Welke verschillende soorten stoffen zijn er voor vouwgordijnen?
+
+Answer: We hebben een ruime collectie in stoffen en kleuren beschikbaar; lichtdoorlatend, verduisterend en semi-verduisterend.
+
+Question: ⊕
+Kan ik een standaard maat vouwgordijn zelf inkorten?
+
+Answer: We raden het niet aan om een standaard maat vouwgordijn zelf in te korten, dit vanwege de tunnels die in het vouwgordijn zitten.
+
+Question: ⊕
+Herroepingsrecht vouwgordijnen op maat
+
+Answer: Maatwerk vouwgordijnen, dit betekent vouwgordijnen met specifiek opgegeven afmetingen, kunnen niet retour gestuurd worden, omdat deze specifiek en uniek per klant worden geproduceerd. Dit wordt benoemd in de algemene voorwaarden onder artikel 10.9. Indien er sprake is van materiaalschade, een productiefout of transportschade treedt de garantie in werking. Lees hierover meer op onze garantiepagina en neem contact op met onze klantenservice, via klantenservice@gordijnen.nl
+Het onaangepaste Europese modelformulier herroeping vind je door op deze link te klikken.
+
+Item: Aluminium jaloezieën
+
+Question: ⊕
+Wat is een aluminium jaloezie?
+
+Answer: Een aluminium jaloezie bestaat uit horizontale lamellen van het materiaal aluminium. Het wordt in de meeste gevallen in de dag wordt gemonteerd. Een aluminium jaloezie kan worden opgehaald door middel van het ophaalmechanisme wat in een bovenbak zit wat aan de bovenzijde is verwerkt.
+
+Question: ⊕
+Hoe moet ik de aangegeven standaard maat afmeting lezen?
+
+Answer: De aangegeven breedte- en hoogtemaat maat van de aluminium jaloezie is de afmeting van het complete systeem.
+
+Question: ⊕
+Welke voordelen heeft een aluminium jaloezie?
+
+Answer: Aluminium jaloezieën zijn een goed betaalbare oplossing als raamdecoratie. Door middel van het draaien van de jaloezieën kan eenvoudig de lichtinval geregeld worden. Ze zijn praktisch in gebruik een eenvoudig te installeren.
+
+Question: ⊕
+Hoe meet ik mijn ramen op voor een aluminium jaloezie?
+
+Answer: Breedte: Meet op 3 verschillende plekken (links, midden en rechts) de breedtemaat en neem hiervan de kleinste maat. Hoogte: Meet op 3 verschillende plekken (hoog, midden en laag) de hoogtemaat en neem hiervan de kleinste maat. Hou bij plaatsing in de dag (in het kozijn) een speling aan van 1 cm.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek van een standaard maat aluminium jaloezie?
+
+Answer: Bij de standaard maat aluminium jaloezie zit het ophaalkoord rechts en de stang voor het draaien van de jaloezieën links.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek van een op maat gemaakte aluminium jaloezie?
+
+Answer: Bij de op maat gemaakte aluminium jaloezie kan je zelf bepalen aan welke kant de bediening zit, dit kan zowel links als rechts.
+
+Question: ⊕
+Kan ik aluminium jaloezieën eenvoudig zelf schoonmaken?
+
+Answer: Aluminium jaloezieën zijn eenvoudig schoon te maken door middel van een doek of een lamelreiniger
+
+Question: ⊕
+Moet de maximale hoogte bij een standaard maat aluminium jaloezie altijd gebruikt worden?
+
+Answer: De hoogte hoeft niet altijd gebruikt te worden voor de bediening van de standaard maat jaloezie. Er blijft dan een klein pakket aan de onderkant over wat niet gebruikt wordt.
+
+Question: ⊕
+Is een aluminium jaloezie eenvoudig zelf te installeren?
+
+Answer: Dit is heel eenvoudig, de montagesteunen worden standaard meegeleverd en zijn gemakkelijk te installeren. Kijk voor meer informatie in de meegeleverde montagehandleiding.
+
+Question: ⊕
+Welke verschillende uitvoeringen van aluminium jaloezieën zijn er?
+
+Answer: Standaard maat aluminium jaloezieën zijn er in 25mm brede jaloezieën. Op maat gemaakte jaloezieën zijn beschikbaar in zowel 25 als 50mm brede jaloezieën.
+
+Question: ⊕
+Zijn er ook aluminium jaloezieën voor (kunststof) draai-kiep ramen?
+
+Item: Houten jaloezieën
+
+Question: ⊕
+Hoe moet ik de aangegeven afmeting lezen?
+
+Answer: De aangegeven breedte- en hoogtemaat maat van de houten jaloezie is de afmeting van het complete systeem.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek van een standaard maat houten jaloezie?
+
+Answer: Bij de standaard maat houten jaloezie zit het ophaalkoord rechts en het koord voor het draaien van de jaloezieën links.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek van een op maat gemaakte houten jaloezie?
+
+Answer: Bij de op maat gemaakte houten jaloezie kan je zelf bepalen aan welke kant de bediening zit, dit kan zowel links als rechts.
+
+Question: ⊕
+Hoe meet ik mijn ramen op voor een houten jaloezie?
+
+Answer: Breedte: Meet op 3 verschillende plekken (links, midden en rechts) de breedtemaat en neem hiervan de kleinste maat. Hoogte: Meet op 3 verschillende plekken (hoog, midden en laag) de hoogtemaat en neem hiervan de kleinste maat. Hou bij plaatsing in de dag (in het kozijn) een speling aan van 1 cm.
+
+Question: ⊕
+Kan ik houten jaloezieën eenvoudig zelf schoonmaken?
+
+Answer: Aluminium jaloezieën zijn eenvoudig schoon te maken door middel van een doek of een lamelreiniger
+
+Question: ⊕
+Moet de maximale hoogte bij een standaard maat houten jaloezie altijd gebruikt worden?
+
+Answer: De hoogte hoeft niet altijd gebruikt te worden voor de bediening van de standaard maat jaloezie. Er blijft dan een klein pakket aan de onderkant over wat niet gebruikt wordt.
+
+Question: ⊕
+Is een houten jaloezie eenvoudig zelf te installeren?
+
+Answer: Dit is heel eenvoudig, de montagesteunen worden standaard meegeleverd en zijn gemakkelijk te installeren. Kijk voor meer informatie in de meegeleverde montagehandleiding
+
+Question: ⊕
+Kan ik een standaard maat houten jaloezie zelf inkorten?
+
+Answer: De houten jaloezie is eenvoudig in de hoogte in te korten, kijk hiervoor de meegeleverde handleiding. We raden het niet aan om de houten jaloezie in de breedte in te korten.
+
+Item: Kunststof jaloezieën
+
+Question: ⊕
+Wat is een kunststof jaloezie?
+
+Answer: Een kunststof jaloezie bestaat uit horizontale lamellen van het materiaal PVC, het is een goedkoper alternatief van een houten jaloezie. Het kan zowel in als op de dag gemonteerd worden. Een kunststof jaloezie kan worden opgehaald door middel van het ophaalmechanisme wat in een bovenbak zit wat aan de bovenzijde is verwerkt.
+
+Question: ⊕
+Hoe moet ik de aangegeven afmeting lezen?
+
+Answer: De aangegeven breedte- en hoogtemaat maat van de kunststof jaloezie is de afmeting van het complete systeem.
+
+Question: ⊕
+Welke voordelen heeft een kunststof jaloezie?
+
+Answer: Een kunststof jaloezie is een goedkoper alternatief van de houten jaloezie en een praktische oplossing wat een strakke en moderne uitstraling aan je interieur geeft. Door middel van het draaien van de jaloezieën kan eenvoudig de lichtinval geregeld worden. De uitstraling van de kunststof jaloezie is gelijkwaardig aan die van de houten jaloezie.
+
+Question: ⊕
+Hoe meet ik mijn ramen op voor een kunststof jaloezie?
+
+Answer: Breedte: Meet op 3 verschillende plekken (links, midden en rechts) de breedtemaat en neem hiervan de kleinste maat. Hoogte: Meet op 3 verschillende plekken (hoog, midden en laag) de hoogtemaat en neem hiervan de kleinste maat. Hou bij plaatsing in de dag (in het kozijn) een speling aan van 1 cm.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek van een standaard maat kunststof jaloezie?
+
+Answer: Bij de standaard maat kunststof jaloezie zit het ophaalkoord rechts en het koord voor het draaien van de jaloezieën links.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek van een op maat gemaakte kunststof jaloezie?
+
+Answer: Bij de op maat gemaakte kunststof jaloezie zit het ophaalkoord rechts en het koord voor het draaien van de jaloezieën links.
+
+Question: ⊕
+Kan ik kunststof jaloezieën eenvoudig zelf schoonmaken?
+
+Answer: Kunststof jaloezieën zijn eenvoudig schoon te maken door middel van een doek of een lamelreiniger
+
+Question: ⊕
+Moet de maximale hoogte bij een standaard maat kunststof jaloezie altijd gebruikt worden?
+
+Answer: De hoogte hoeft niet altijd gebruikt te worden voor de bediening van de standaard maat jaloezie. Er blijft dan een klein pakket aan de onderkant over wat niet gebruikt wordt.
+
+Question: ⊕
+Is een kunststof jaloezie eenvoudig zelf te installeren?
+
+Answer: Dit is heel eenvoudig, de montagesteunen worden standaard meegeleverd en zijn gemakkelijk te installeren. Kijk voor meer informatie in de meegeleverde montagehandleiding
+
+Question: ⊕
+Kan ik een standaard maat kunststof jaloezie zelf inkorten?
+
+Item: Plisségordijnen
+
+Question: ⊕
+Wat is een plisségordijn?
+
+Answer: Een plisségordijn is een systeem waarmee je door de verschillende systemen perfect de lichtinval in je huis kan regelen. De stof een is een gepliseerde rolgordijn stof die in verschillende varianten beschikbaar is.
+
+Question: ⊕
+Welke soorten stof zijn er beschikbaar voor plisségordijnen?
+
+Answer: Een plisségordijn kan uitgevoerd worden in een enkele of dubbele plissé stof. De dubbele plissé stof kan zowel in een lichtdoorlatende als verduisterende stof gemaakt worden.
+
+Question: ⊕
+Wat is het verschil tussen een enkel en dubbel plisségordijn?
+
+Answer: Een enkele plisséstof is hetzelde als een rolgordijn stof echter gepliseerd. Een dubbele stof bestaat uit 2 lagen waarmee je een honingraat effect creërt. Door middenin deze dubbele stof een zilveren coating te plaatsen maak je het dubbele plisségordijn verduisterend.
+
+Question: ⊕
+Hoe moet ik de aangegeven afmeting lezen?
+
+Answer: De aangegeven breedte- en hoogtemaat maat van een plisségordijn is de afmeting van het complete systeem.
+
+Question: ⊕
+Welke voordelen heeft een plisségordijn?
+
+Answer: Met een plisségordijn kan je door de verschillende uitvoeringen en stoffen goed en eenvoudig de lichtinval in je huis regelen.
+
+Question: ⊕
+Hoe meet ik mijn ramen op voor een plisségordijn?
+
+Answer: Breedte: Meet op 3 verschillende plekken (links, midden en rechts) de breedtemaat en neem hiervan de kleinste maat. Hoogte: Meet op 3 verschillende plekken (hoog, midden en laag) de hoogtemaat en neem hiervan de kleinste maat. Hou bij plaatsing in de dag (in het kozijn) een speling aan van 1 cm.
+
+Question: ⊕
+Zijn er ook verduisterende plisségordijnen?
+
+Answer: Ja, bij een dubbel plisségordijn kan je door middenin deze dubbele stof een zilveren coating te plaatsen het dubbele plisségordijn verduisteren.
+
+Question: ⊕
+Wat is het verschil tussen een vrijhangend en gespannen plisségordijn?
+
+Answer: Bij een vrijhangend plisségordijn bedien je het plisségordijn door middel van de koorden die aan de buitenkant aanwezig zijn. Bij een gespannen plisségordijn heb je deze koorden niet, door middel van handgrepen schuif je het plisségordijn naar boven als beneden. Extra voordeel bij een gespannen plisségordijn is dat deze door draden heenloopt aan de zijkant waardoor het systeem onder spanning staat. Dit is een ideale oplossing bij een draai-kiep raam, het gespannen plisségordijn blijft dan strak tegen het raam aanzitten als het raam wordt gekanteld.
+
+Question: ⊕
+Kan ik plisségordijnen eenvoudig zelf schoonmaken?
+
+Answer: Plisségordijnen kunnen schoongemaakt worden met een licht vochtige doek van lauw schoonmaak water. Niet te hard wrijven want dan beschadigt de beschermlaag.
+
+Question: ⊕
+Moet de maximale hoogte bij een standaard maat plisségordijn altijd gebruikt worden?
+
+Answer: De hoogte hoeft niet altijd gebruikt te worden voor de bediening van de standaard maat plisségordijn Er blijft dan een klein pakket stof aan de onderkant over wat niet gebruikt wordt.
+
+Question: ⊕
+Is een plisségordijn eenvoudig zelf te installeren?
+
+Item: Verticale lamellen
+
+Question: ⊕
+Wat zijn verticale lamellen?
+
+Answer: Verticale lamellen is een product waarbij de jaloezieën verticaal lopen. De lamellen zijn uitgevoerd in kunststof en hiermee goed bestand tegen verkleuring van bijvoorbeeld de zon.
+
+Question: ⊕
+Hoe moet ik de aangegeven afmeting lezen?
+
+Answer: De aangegeven breedte- en hoogtemaat maat van verticale lamellen is de afmeting van het complete systeem.
+
+Question: ⊕
+Welke voordelen hebben verticale lamellen?
+
+Answer: Verticale lamellen worden vaak toegepast in kantoren, keuken of badkamer. Je kan eenvoudig doormiddel van het draaien van de lamellen privacy creëren.
+
+Question: ⊕
+Aan welke kant zit het bedieningsmechaniek van verticale lamellen?
+
+Answer: De ketting om de lamellen te kunnen draaien en te schuiven zit standaard aan de rechterkant.
+
+Question: ⊕
+Kan ik verticale lamellen eenvoudig zelf schoonmaken?
+
+Answer: Schoonmaken van de lamellen kan door middel van een vochtige doek.
+
+Question: ⊕
+Kan ik verticale lamellen zelf inkorten?
+
+Answer: De lamellen zijn eenvoudig zelf op maat te maken, bekijk hiervoor de meegeleverde handleiding.
+
+Item: Easyclick
+
+Question: ⊕
+Wat is het verschil tussen Top Down en Top Down Bottom Up
+
+Answer: Een Top Down Easyclick functioneert hetzelfde als een rolgordijn, een systeem wat je van boven naar beneden kan schuiven. Bij een Top Down Bottom Up systeem is er een extra optie; hier kan je het plisségordijn zowel van boven naar onder als van onder naar boven bedienen.
+
+Question: 
+
+Item: Meet & montage service
+
+Question: 
+
