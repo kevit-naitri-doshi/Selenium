@@ -16,7 +16,7 @@ This project is a web scraper that extracts information from the [Dutch](https:/
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/gordijnen-wiki-scraper.git
+git clone https://github.com/naitridoshi/Dutch-Website-Scraper-using-Selenium.git
 pip install -r requirements.txt
 ```
 
